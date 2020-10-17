@@ -3,7 +3,7 @@
     <img alt="Vue logo" class="logo" src="../assets/logo.png">
     <h1 @click="$router.push('/test')"> go test </h1>
     <p>
-      hello vue
+      hello vue 111
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
   </div>
