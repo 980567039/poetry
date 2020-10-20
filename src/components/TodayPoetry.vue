@@ -3,7 +3,7 @@
     <div class="head"><img src="../assets/logo.png" alt=""></div>
     <div class="poetry-content">
       <p v-if="todayPoetry">{{ todayPoetry.paragraphs }}</p>
-      <div @click="change" class="change">换一下.</div>
+      <div @click="change" class="change">换一下</div>
     </div>
 
     <div class="footer">
